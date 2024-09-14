@@ -1,4 +1,4 @@
-nrpe-plugins
+NRPE plugins
 ============
 
 Custom NRPE Plugins to be used with Shinken/Nagios
